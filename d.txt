@@ -3,5 +3,6 @@ int main() {
 int a= 10, b=5;
 printf("sum %d\n");
 printf("difference %d\n")
+printf("product %d\n")
 return 0;
 }
