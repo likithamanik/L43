@@ -18,4 +18,12 @@
 <th rowspan="2">accessories</th>
 <th>$50</th>
 </tr>
-
+<tr>
+<th>headphones</th>
+<th>$200</th>
+</tr>
+<tr>
+<th colspan="2">total price(merged)</th>
+<th>$2050</th>
+</tr>
+</table>
