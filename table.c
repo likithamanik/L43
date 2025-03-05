@@ -1,4 +1,5 @@
 
+
 <table style="width:100%"border="2"
 <tr>
 <th>product</th>
@@ -25,5 +26,8 @@
 <tr>
 <th colspan="2">total price(merged)</th>
 <th>$2050</th>
+</tr>
+<th>bluetooth</th>
+<th>$2500</th>
 </tr>
 </table>
