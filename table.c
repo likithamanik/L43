@@ -26,4 +26,8 @@
 <th colspan="2">total price(merged)</th>
 <th>$2050</th>
 </tr>
+<th>tuetooth</th>
+<th>$400</th>
+</tr>
 </table>
+
