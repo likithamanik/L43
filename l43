@@ -1,4 +1,8 @@
 <!DOCTYPE html>
 <html>
 <body>
+<h2>my first web technology</h2>
+<p>my first paragraph</p>
+<p id="demo"></p>
+<script>
 
