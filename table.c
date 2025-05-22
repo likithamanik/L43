@@ -13,11 +13,13 @@
 <tr>
 <th>phone</th>
 <th>$800</th>
+ADD SOME NEW LINES
 </tr>
 <tr>
 <th>merged</th>
 <th rowspan="2">accessories</th>
 <th>$50</th>
+added a new branch
 </tr>
 <tr>
 <th>headphones</th>
@@ -29,5 +31,7 @@
 </tr>
 <th>bluetooth</th>
 <th>$2500</th>
+A NEW ADDED IN YOUR FILE 
+TWO NES LINES ARE ADDED
 </tr>
 </table>
