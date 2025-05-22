@@ -19,6 +19,7 @@ ADD SOME NEW LINES
 <th>merged</th>
 <th rowspan="2">accessories</th>
 <th>$50</th>
+added a new branch
 </tr>
 <tr>
 <th>headphones</th>
