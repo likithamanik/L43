@@ -29,5 +29,7 @@
 </tr>
 <th>bluetooth</th>
 <th>$2500</th>
+A NEW ADDED IN YOUR FILE 
+TWO NES LINES ARE ADDED
 </tr>
 </table>
